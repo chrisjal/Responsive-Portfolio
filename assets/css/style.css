@@ -342,7 +342,7 @@ input[type=submit] {
     .navScale {
       width: 100%;
       text-align: center;
-      margin: 0 auto;
+      margin: 0;
       padding: 10px 0px;
     }
     .main-section {
